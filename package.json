@@ -1,7 +1,7 @@
 {
-  "name": "country-picker-ssr",
+  "name": "react-boilerplate",
   "version": "1.0.0",
-  "description": "Practicing server side rendering in react",
+  "description": "a basis for react projects",
   "author": "Angus Clark",
   "license": "MIT",
   "scripts": {
